@@ -17,6 +17,6 @@
  - REST API
   
   HTTP Request Methods
-  GET - https://passeimuitodireto.com/api/:pergunta - returns a JSON file with the text content from passeidireto.com
+  GET - https://passeimuitodireto.com/api/:pergunta - returns a JSON file with the text and img content
 
   here's the web DOC about the api https://passeimuitodireto.com/api
