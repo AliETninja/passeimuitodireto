@@ -1,3 +1,3 @@
 # passeimuitodireto.com
 
-It's a REST app made using flask
+It's a REST api made using flask
