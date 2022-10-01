@@ -14,7 +14,7 @@
   <br>
   
   
- - REST API
+ - REST API Request Methods
   
   HTTP Request Methods
   GET - https://passeimuitodireto.com/api/:pergunta - returns a JSON file with the text and img content
