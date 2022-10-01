@@ -7,4 +7,8 @@
  https://passeimuitodireto.com
   
  - REST API
-  here's the web DOC about the api https://passeimuitodireto.com/api 
+  
+  HTTP Request Methods
+  GET - https://passeimuitodireto.com/api/:pergunta - returns a JSON file with the text content from passeidireto.com
+
+  here's the web DOC about the api https://passeimuitodireto.com/api
